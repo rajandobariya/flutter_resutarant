@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247797988490",
+    "project_id": "resutarant-76521",
+    "storage_bucket": "resutarant-76521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247797988490:android:784bd152cd1098fad2c173",
+        "android_client_info": {
+          "package_name": "com.example.resutarant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB24WYgHFdHnIRB05Dt0tcIugdtHF0SMhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
